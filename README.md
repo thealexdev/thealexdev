@@ -1,71 +1,49 @@
-# Hola! Soy axxving
+# Hola, soy Alex
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-axxving.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axxving.com)
-[![Email](https://img.shields.io/badge/Email-axxving@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axxving@gmail.com)
+### Desarrollador full-stack con foco en experiencias web claras y utiles.
 
-## Sobre Mí
+Construyo productos digitales que combinan diseno, codigo y funcionalidad. Me interesa transformar ideas en interfaces rapidas, accesibles y pensadas para las personas que las usan.
 
-Soy un **Desarrollador Full Stack** apasionado especializado en aplicaciones **Web, Móviles y de Escritorio**. Me encanta crear soluciones innovadoras y dar vida a las ideas a través del código, enfocándome en crear experiencias de usuario excepcionales.
+[![Portafolio](https://img.shields.io/badge/Portafolio-thealexdev.site-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thealexdev.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thealexdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thealexdev/)
+[![YouTube](https://img.shields.io/badge/YouTube-%40thealexdev--oficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thealexdev-oficial)
+[![Workana](https://img.shields.io/badge/Workana-Perfil_profesional-6B3FA0?style=for-the-badge&logo=workana&logoColor=white)](https://www.workana.com/freelancer/0b17cbf4fa4c136c8c4c07fd053ef88d)
 
-```typescript
-const axxving = {
-  rol: "Desarrollador Full Stack",
-  especialidades: ["Desarrollo Web", "Apps Móviles", "Aplicaciones de Escritorio"],
-  enfoque: "Crear experiencias de usuario increíbles",
-  pasion: "Transformar ideas en código funcional",
-  estado: "Siempre aprendiendo nuevas tecnologías"
-};
-```
+## En que trabajo
 
----
+- Desarrollo interfaces web modernas, responsive y orientadas a producto.
+- Creo aplicaciones full-stack y conecto experiencias frontend con servicios backend.
+- Documento decisiones, procesos y aprendizajes detras de cada proyecto.
+- Exploro herramientas que ayuden a construir software mas claro y util.
 
-## Tecnologías y Herramientas
+## Stack
 
-### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=zustand&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **Bases de Datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## Proyectos destacados
 
-### **Herramientas y Ecosistema**
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+| Proyecto | Enfoque | Stack principal |
+| --- | --- | --- |
+| [Depa Creativo](https://depacreativo.mx/) | Plataforma que conecta clientes con profesionales creativos. | React, Django, PostgreSQL, Docker |
+| [RMX Portafolio](https://rmx09.site/) | Portafolio para un especialista en ciberseguridad ofensiva. | React, Tailwind, Django |
+| [Ziga & Abogados](https://zigayabogados.com/) | Sitio institucional orientado a credibilidad y conversion. | React, Tailwind |
+| [Vital Wear](https://vital-wear.netlify.app/) | E-commerce de ropa deportiva y lifestyle. | React, Tailwind, Firebase |
+| [Flowdo](https://todo-app-day.netlify.app/) | Aplicacion de gestion de tareas. | React, Tailwind, Firebase |
+| [Techpedia](https://techtracker-8eee3.web.app/) | Organizador de herramientas, recursos y tecnologias. | React, Firebase, MUI |
 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+## Creando y aprendiendo
 
----
+Actualmente sigo profundizando en desarrollo web, arquitectura full-stack y experiencias de usuario. Comparto proyectos, tutoriales y aprendizajes en [YouTube](https://www.youtube.com/@thealexdev-oficial) y [LinkedIn](https://www.linkedin.com/in/thealexdev/).
 
-## Conectemos!
+## Conectemos
 
-Siempre estoy abierto a conversaciones interesantes y oportunidades de colaboración!
-
-[![Portafolio](https://img.shields.io/badge/Visita_mi_Portafolio-axxving.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axxving.com)
-
-[![Email](https://img.shields.io/badge/Envíame_un_Email-axxving@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axxving@gmail.com)
+Si tienes una idea, proyecto o colaboracion en mente, puedes encontrarme en [thealexdev.site](https://thealexdev.site) o a traves de [Workana](https://www.workana.com/freelancer/0b17cbf4fa4c136c8c4c07fd053ef88d).
