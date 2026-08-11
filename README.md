@@ -33,36 +33,6 @@ Desarrollo interfaces modernas, responsive y centradas en las personas. Me gusta
 
 </div>
 
-## / proyectos seleccionados
-
-### [Depa Creativo](https://depacreativo.mx/)
-**Marketplace creativo** para conectar clientes con disenadores, fotografos, videomakers y mas. Landing corporativa optimizada y sistema de componentes a medida.
-
-`React` `Django` `Redux` `JWT` `PostgreSQL` `Docker`
-
-### [RMX Portafolio](https://rmx09.site/)
-Portafolio tecnico para un especialista en ciberseguridad ofensiva, con una estetica de terminal y una presentacion directa de sus capacidades.
-
-`React` `Tailwind CSS` `Django` `PostgreSQL` `Docker`
-
-### [Ziga & Abogados](https://zigayabogados.com/)
-Sitio institucional para un despacho juridico, disenado para transmitir credibilidad y facilitar el contacto con clientes potenciales.
-
-`React` `Tailwind CSS`
-
-### [Vital Wear](https://vital-wear.netlify.app/)
-E-commerce de ropa deportiva y lifestyle con catalogo, carrito y una experiencia de compra optimizada para conversion.
-
-`React` `Tailwind CSS` `Firebase`
-
-### [Flowdo](https://todo-app-day.netlify.app/)
-Aplicacion de gestion de tareas para crear, editar, completar y organizar pendientes desde una interfaz limpia y fluida.
-
-`React` `Tailwind CSS` `Firebase`
-
-### [Techpedia](https://techtracker-8eee3.web.app/)
-Organizador de herramientas, recursos y tecnologias con categorizacion, busqueda y persistencia de datos.
-
 `React` `Firebase` `MUI`
 
 ## / en proceso
