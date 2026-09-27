@@ -1,4 +1,5 @@
-<img src="banner-01.webp" alt="Alex | thealexdev" />
+<img width="1584" height="396" alt="HACKER ÉTICO y FULL STACK" src="https://github.com/user-attachments/assets/769e9f63-7af7-4080-82fa-8b70f3b14d95" />
+
 
 # thealexdev
 
